@@ -1,0 +1,7 @@
+parameters:
+#    karolsojko_gamification.example.class: karolsojko\GamificationBundle\Example
+
+services:
+#    karolsojko_gamification.example:
+#        class: %karolsojko_gamification.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

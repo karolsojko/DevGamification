@@ -1,0 +1,3 @@
+karolsojko_gamification:
+    resource: "@karolsojkoGamificationBundle/Resources/config/routing.yml"
+    prefix:   /

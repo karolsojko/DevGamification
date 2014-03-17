@@ -1,0 +1,3 @@
+karolsojko_gamification_homepage:
+    pattern:  /
+    defaults: { _controller: karolsojkoGamificationBundle:Default:index }
